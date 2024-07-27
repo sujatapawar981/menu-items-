@@ -1,0 +1,41 @@
+.main-division {
+  width: 370px;
+  height: 440px;
+  border: 1px solid gray;
+  border-radius: 12px;
+  margin: 20px auto;
+  background-color: rgb(248, 152, 26);
+}
+#best-seller {
+  color: green;
+  font-weight: bolder;
+  background-color: aliceblue;
+  padding: 3px 5px 3px 5px;
+  border-radius: 8px;
+  border: 1px solid black;
+  position: absolute;
+  top: 40;
+  left: 430px;
+}
+
+#item-photo img {
+  width: 350px;
+  height: 250px;
+  border: radius 12px;
+  padding: 8px;
+}
+
+#item-desc {
+  padding: 8px;
+}
+#item-desc h4 {
+  margin-top: 10px 0px 5px 10px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  text-align: center;
+}
+#item-desc p {
+  margin: top 5px;
+  margin-bottom: 5px;
+  text-align: center;
+}
